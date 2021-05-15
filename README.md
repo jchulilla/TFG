@@ -7,4 +7,14 @@ TFG_jchulilla_PEC3(ulmfit).py --> Codigo Python con la generacion del modelo ULM
 TFG_jchulilla_PEC3.py --> Codigo Python con la generacion de los modelos LR y MNB  
 TFG_jchulilla_PEC3_TEST_LR.py --> Codigo Python con la llamada al modelo LR  
 TFG_jchulilla_PEC3_TEST_MNB.py --> Codigo Python con la llamada al modelo MNB  
-TFG_jchulilla_PEC3_TEST_ULM.py --> Codigo Python con la llamada al modelo ULMFiT
+TFG_jchulilla_PEC3_TEST_ULM.py --> Codigo Python con la llamada al modelo ULMFiT  
+  
+Dockerfile --> Generacion del docker  
+requirements.txt --> Librerias necesias python para el Docker  
+  
+learn.zip --> Modelo python ULMFiT  
+modelLR.pkl --> Modelo python LR  
+modelMNB.pkl --> Modelo python MNB  
+tfidf_vectorizer --> Vectorizador python  
+
+
