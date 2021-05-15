@@ -12,7 +12,7 @@ TFG_jchulilla_PEC3_TEST_ULM.py --> Codigo Python con la llamada al modelo ULMFiT
 Dockerfile --> Generacion del docker  
 requirements.txt --> Librerias necesias python para el Docker  
   
-learn.pkl --> Modelo python ULMFiT (comprimido por volumenes en zip)
+learn.pkl --> Modelo python ULMFiT (comprimido por volumenes en zip)  
 modelLR.pkl --> Modelo python LR  
 modelMNB.pkl --> Modelo python MNB  
 tfidf_vectorizer.pkl --> Vectorizador python  
