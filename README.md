@@ -15,6 +15,6 @@ requirements.txt --> Librerias necesias python para el Docker
 learn.zip --> Modelo python ULMFiT  
 modelLR.pkl --> Modelo python LR  
 modelMNB.pkl --> Modelo python MNB  
-tfidf_vectorizer --> Vectorizador python  
+tfidf_vectorizer.pkl --> Vectorizador python  
 
 
